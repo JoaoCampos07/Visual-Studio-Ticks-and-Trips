@@ -1,7 +1,7 @@
 # Visual-Studio-Ticks-and-Trips
 
 ## Popular Shortcuts
-| Command | Description |
+| Command | Keyboard shortcut | Command id
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Navigate to |  	Ctrl+, | Edit.NavigateTo
+
